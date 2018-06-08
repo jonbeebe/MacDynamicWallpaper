@@ -2,8 +2,8 @@
 
 This project contains an AppleScript that allows macOS earlier than 10.14 to have Mojave-style dynamic wallpapers. It's not as accurate (and images don't change seamlessly), but it works and is better than nothing! Tested on 10.13 (High Sierra).
 
-The script is a modified version of an older script created by [Philip Hutchinson](https://pipwerks.mit-license.org):
-[https://github.com/pipwerks/OS-X-Wallpaper-Changer]()
+The script is a modified version of an older script created by Philip Hutchinson:
+[https://github.com/pipwerks/OS-X-Wallpaper-Changer]() ([MIT License](https://pipwerks.mit-license.org))
 
 ## Time of Day
 
