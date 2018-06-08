@@ -33,3 +33,24 @@ The 16 images correspond to the following times of day:
 3. Move or copy the Wallpapers folder to your `$HOME/Pictures/` folder.
 4. If you changed any of the paths or folder names, you'll need to manually update the script.
 5. Run the script automatically at an interval (e.g. every 30 minutes) using software such as [Lingon](https://www.peterborgapps.com/lingon/) (recommended) or manually using [Launch Daemons and Agents](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html).
+
+When you're all done you should have images at the following paths (image file names can be different but the folders should be the same or you'll need to update the script):
+
+```
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_1/mojave_dynamic_1.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_2/mojave_dynamic_2.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_3/mojave_dynamic_3.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_4/mojave_dynamic_4.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_5/mojave_dynamic_5.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_6/mojave_dynamic_6.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_7/mojave_dynamic_7.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_8/mojave_dynamic_8.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_9/mojave_dynamic_9.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_10/mojave_dynamic_10.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_11/mojave_dynamic_11.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_12/mojave_dynamic_12.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_13/mojave_dynamic_13.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_14/mojave_dynamic_14.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_15/mojave_dynamic_15.jpeg
+$HOME/Pictures/Wallpapers/Time of Day/mojave_dynamic_16/mojave_dynamic_16.jpeg
+```
